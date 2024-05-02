@@ -34,4 +34,3 @@
 .   { fprintf(stderr, "Unexpected symbol: %s\n", yytext); exit(EXIT_FAILURE); }
 
 %%
-
