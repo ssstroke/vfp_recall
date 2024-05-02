@@ -79,6 +79,7 @@ int yyerror(char *s) {
 }
 
 int main(void) {
-  yyparse();
+  if (yyparse() == 0)
+    printf("no syntax error\n");
   return 0;
 }
