@@ -1,0 +1,3 @@
+ERROR: unexpected symbol on line 1
+ERROR: Bad 'RECORD' usage. Expected: 'RECORD <number>'. on line 1
+Finished parsing.

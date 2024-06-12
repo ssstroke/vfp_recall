@@ -1,0 +1,2 @@
+ERROR: unexpected symbol on line 1
+ERROR: Bad 'WHILE' usage. Expected: 'WHILE <logical expression>'. on line 1

@@ -1,0 +1,2 @@
+ERROR: unexpected symbol on line 1
+ERROR: Bad 'FOR' usage. Expected: 'FOR <logical expression>'. on line 1

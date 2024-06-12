@@ -99,10 +99,7 @@ expr_a      : LITERAL_NUMBER
             | expr_a '+' expr_a
             | expr_a '-' expr_a
             | expr_a '*' expr_a
-            | expr_a '/' expr_a {
-              if ($3 == '0')
-                yyerror("Division by 0.");
-            }
+            | expr_a '/' expr_a
             ;
 
 %%

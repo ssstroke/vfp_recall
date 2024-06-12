@@ -1,0 +1,1 @@
+ERROR: unexpected symbol on line 1
